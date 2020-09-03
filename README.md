@@ -3,4 +3,4 @@
 Piton task manager app
 
 ## Screenshots
-![alt text](https://hizliresim.com/Tkkrt9)
+https://hizliresim.com/Tkkrt9
